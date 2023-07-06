@@ -71,8 +71,6 @@ Remember to update the paths to your actual Java installation directory if they 
 
 That's it! You've successfully installed PySpark and configured your environment. Happy coding!
 
-Certainly! Here's an example of an installation section for scikit-learn (sklearn) in your README:
-
 ### 4. scikit-learn Installation
 
 scikit-learn can be installed using the `pip` package manager, which is bundled with Python. Open your terminal or command prompt and execute the following command:
