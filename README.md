@@ -73,7 +73,7 @@ That's it! You've successfully installed PySpark and configured your environment
 
 Certainly! Here's an example of an installation section for scikit-learn (sklearn) in your README:
 
-### 3. scikit-learn Installation
+### 4. scikit-learn Installation
 
 scikit-learn can be installed using the `pip` package manager, which is bundled with Python. Open your terminal or command prompt and execute the following command:
 
@@ -146,8 +146,6 @@ Please note that the paths to the input CSV files in the script need to be adjus
 Feel free to customize the scripts further or explore additional functionalities to enhance the image classification process using PySpark or scikit
 
 -learn.
-
-Certainly! Here's an example of a "Usage" section for the `ml_with_pyspark.py` and `ml_with_sklearn.py` scripts in your README:
 
 ## Usage
 
